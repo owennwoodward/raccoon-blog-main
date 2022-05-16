@@ -1,0 +1,27 @@
+.header-image {
+    background: url("Mountain.jpg");
+    background-position: center;
+    height: 0%;
+}
+
+
+.woods-header-image {
+    background: url("Woods.jpg");
+    background-position: center;
+    height: 20%;
+}
+
+.raccoon-header-image {
+    background: url("raccoon.jpg");
+    background-position: center;
+    height: 28em;
+}
+
+
+.container-footer {
+    height: 100px;
+    width: 100%;
+    background-color: gray;
+    position: fixed;
+    bottom: 0;
+}
